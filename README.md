@@ -149,7 +149,7 @@ FROM HTML AND CSS
 ```
 
 ## OUTPUT:
-
+![alt text](<Screenshot (3).png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
